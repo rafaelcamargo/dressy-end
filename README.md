@@ -6,6 +6,7 @@ The content of this guide is divide in three well known areas at front end devel
 - [Markup](markup/README.md)
 - [Style](style/README.md)
 - [Script](script/README.md)
+- [Environment](environment/README.md)
 
 ### Contribute
 If you know some good pattern or advice which could be here, feel free to contribute.
