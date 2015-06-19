@@ -18,7 +18,7 @@ var doSomething = function() {
 
 Both cases will log `doSomething()` on the call stack.
 
-### How to choose a great name for a function
+### Choosing a name for a function
 Any function (except when you are prototyping an instantiable object) perform a task. It is an action. So, a good way is to use an imperative verb in its name.
 
 **Examples**
